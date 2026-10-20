@@ -8,7 +8,7 @@ import {
   FaMoon,
   FaSun
 } from "react-icons/fa";
-import "./Navbar.css";
+import "./NavBar.css";
 
 const NavBar = ({ portfolioName, isDark, setIsDark, active, setActive }) => {
 
